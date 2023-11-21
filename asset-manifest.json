@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mcarroll138/github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/mcarroll138/github.io/static/js/main.61fa7f9a.js",
+    "static/media/bakery@2x.png": "/mcarroll138/github.io/static/media/bakery@2x.1b22661d729ebc8450b5.png",
+    "static/media/factory@2x.png": "/mcarroll138/github.io/static/media/factory@2x.a9284600cc47deea797e.png",
+    "static/media/lanternrouge@2x.png": "/mcarroll138/github.io/static/media/lanternrouge@2x.72544f827ba14126f9c3.png",
+    "static/media/TheCircuit.jpg": "/mcarroll138/github.io/static/media/TheCircuit.3c69fd7ee5048f5e4cad.jpg",
+    "static/media/ProfilePicture.png": "/mcarroll138/github.io/static/media/ProfilePicture.58505451c891bebf4c5a.png",
+    "static/media/TassleHat.svg": "/mcarroll138/github.io/static/media/TassleHat.2652ad028f645f01c81a979249015924.svg",
+    "static/media/Background.svg": "/mcarroll138/github.io/static/media/Background.8e68e38ea94857b2ab02dd1dc6e79fde.svg",
+    "static/media/Github.svg": "/mcarroll138/github.io/static/media/Github.3b7bf0706993249bea2cb3f211eb56c5.svg",
+    "static/media/Linkedin.svg": "/mcarroll138/github.io/static/media/Linkedin.1c59df1dbc535a6e5d2c3a9f9218b211.svg",
+    "index.html": "/mcarroll138/github.io/index.html",
+    "static/media/Arrow.svg": "/mcarroll138/github.io/static/media/Arrow.8462b8b480e791d1d7ff1e5e658d85d9.svg",
+    "main.e6c13ad2.css.map": "/mcarroll138/github.io/static/css/main.e6c13ad2.css.map",
+    "main.61fa7f9a.js.map": "/mcarroll138/github.io/static/js/main.61fa7f9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.61fa7f9a.js"
+  ]
+}
